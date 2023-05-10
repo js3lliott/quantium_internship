@@ -1,4 +1,4 @@
-# Transaction Data Analysis for Chip Sales
+# Quantium Data Analytics Internship - Transaction Data Analysis for Chip Sales
 
 
 ## Introduction
